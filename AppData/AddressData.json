@@ -1,0 +1,31 @@
+{
+	"Addresses" : [
+{"AddressId":0,"AddressName":"Western Governors University","StreetAddress":"4001 South 700 East","ZipCode":"84107","DistanceToHub":0,"TimeToHub":0, "ExpectedPackages":0}
+,{"AddressId":1,"AddressName":"International Peace Gardens","StreetAddress":"1060 Dalton Ave S","ZipCode":"84104","DistanceToHub":7.2,"TimeToHub":24, "ExpectedPackages":0}
+,{"AddressId":2,"AddressName":"Sugar House Park","StreetAddress":"1330 2100 S","ZipCode":"84106","DistanceToHub":3.8,"TimeToHub":12.6666666666667, "ExpectedPackages":0}
+,{"AddressId":3,"AddressName":"Taylorsville-Bennion Heritage City Gov Off","StreetAddress":"1488 4800 S","ZipCode":"84123","DistanceToHub":11,"TimeToHub":36.6666666666667, "ExpectedPackages":0}
+,{"AddressId":4,"AddressName":"Salt Lake City Division of Health Services","StreetAddress":"177 W Price Ave","ZipCode":"84115","DistanceToHub":2.2,"TimeToHub":7.33333333333333, "ExpectedPackages":0}
+,{"AddressId":5,"AddressName":"South Salt Lake Public Works","StreetAddress":"195 W Oakland Ave","ZipCode":"84115","DistanceToHub":3.5,"TimeToHub":11.6666666666667, "ExpectedPackages":0}
+,{"AddressId":6,"AddressName":"Salt Lake City Streets and Sanitation","StreetAddress":"2010 W 500 S","ZipCode":"84104","DistanceToHub":10.9,"TimeToHub":36.3333333333333, "ExpectedPackages":0}
+,{"AddressId":7,"AddressName":"Deker Lake","StreetAddress":"2300 Parkway Blvd","ZipCode":"84119","DistanceToHub":8.6,"TimeToHub":28.6666666666667, "ExpectedPackages":0}
+,{"AddressId":8,"AddressName":"Salt Lake City Ottinger Hall","StreetAddress":"233 Canyon Rd","ZipCode":"84103","DistanceToHub":7.6,"TimeToHub":25.3333333333333, "ExpectedPackages":0}
+,{"AddressId":9,"AddressName":"Columbus Library","StreetAddress":"2530 S 500 E","ZipCode":"84106","DistanceToHub":2.8,"TimeToHub":9.33333333333333, "ExpectedPackages":0}
+,{"AddressId":10,"AddressName":"Taylorsville City Hall","StreetAddress":"2600 Taylorsville Blvd","ZipCode":"84118","DistanceToHub":6.4,"TimeToHub":21.3333333333333, "ExpectedPackages":0}
+,{"AddressId":11,"AddressName":"South Salt Lake Police","StreetAddress":"2835 Main St","ZipCode":"84115","DistanceToHub":3.2,"TimeToHub":10.6666666666667, "ExpectedPackages":0}
+,{"AddressId":12,"AddressName":"Council Hall","StreetAddress":"300 State St","ZipCode":"84103","DistanceToHub":7.6,"TimeToHub":25.3333333333333, "ExpectedPackages":0}
+,{"AddressId":13,"AddressName":"Redwood Park","StreetAddress":"3060 Lester St","ZipCode":"84119","DistanceToHub":5.2,"TimeToHub":17.3333333333333, "ExpectedPackages":0}
+,{"AddressId":14,"AddressName":"Salt Lake County Mental Health","StreetAddress":"3148 S 1100 W","ZipCode":"84119","DistanceToHub":4.4,"TimeToHub":14.6666666666667, "ExpectedPackages":0}
+,{"AddressId":15,"AddressName":"Salt Lake County/United Police Dept","StreetAddress":"3365 S 900 W","ZipCode":"84119","DistanceToHub":3.66112816434,"TimeToHub":12.2037605478, "ExpectedPackages":0}
+,{"AddressId":16,"AddressName":"West Valley Prosecutor","StreetAddress":"3575 W Valley Central Station bus Loop","ZipCode":"84119","DistanceToHub":7.6,"TimeToHub":25.3333333333333, "ExpectedPackages":0}
+,{"AddressId":17,"AddressName":"Housing Auth. of Salt Lake County","StreetAddress":"3595 Main St","ZipCode":"84115","DistanceToHub":2,"TimeToHub":6.66666666666667, "ExpectedPackages":0}
+,{"AddressId":18,"AddressName":"Utah DMV Administrative Office","StreetAddress":"380 W 2880 S","ZipCode":"84115","DistanceToHub":3.6,"TimeToHub":12, "ExpectedPackages":0}
+,{"AddressId":19,"AddressName":"Third District Juvenile Court","StreetAddress":"410 S State St","ZipCode":"84111","DistanceToHub":6.5,"TimeToHub":21.6666666666667, "ExpectedPackages":0}
+,{"AddressId":20,"AddressName":"Cottonwood Regional Softball Complex","StreetAddress":"4300 S 1300 E","ZipCode":"84117","DistanceToHub":1.9,"TimeToHub":6.33333333333333, "ExpectedPackages":0}
+,{"AddressId":21,"AddressName":"Holiday City Office","StreetAddress":"4580 S 2300 E","ZipCode":"84117","DistanceToHub":3.4,"TimeToHub":11.3333333333333, "ExpectedPackages":0}
+,{"AddressId":22,"AddressName":"Murray City Museum","StreetAddress":"5025 State St","ZipCode":"84107","DistanceToHub":2.4,"TimeToHub":8, "ExpectedPackages":0}
+,{"AddressId":23,"AddressName":"Valley Regional Softball Complex","StreetAddress":"5100 South 2700 West","ZipCode":"84118","DistanceToHub":6.4,"TimeToHub":21.3333333333333, "ExpectedPackages":0}
+,{"AddressId":24,"AddressName":"City Center of Rock Springs","StreetAddress":"5383 South 900 East #104","ZipCode":"84117","DistanceToHub":2.4,"TimeToHub":8, "ExpectedPackages":0}
+,{"AddressId":25,"AddressName":"Rice Terrace Pavilion Park","StreetAddress":"600 E 900 South","ZipCode":"84105","DistanceToHub":5,"TimeToHub":16.6666666666667, "ExpectedPackages":0}
+,{"AddressId":26,"AddressName":"Wheeler Historic Farm","StreetAddress":"6351 South 900 East","ZipCode":"84121","DistanceToHub":3.6,"TimeToHub":12, "ExpectedPackages":0}
+]
+}

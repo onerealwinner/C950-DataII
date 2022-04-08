@@ -1,0 +1,44 @@
+{
+"Packages": [
+{"PackageId":1,"Address":"195 W Oakland Ave","City":"Salt Lake City","State":"UT","Zip":"84115","DeliveryDeadline":"10:30","Mass":"21","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":2,"Address":"2530 S 500 E","City":"Salt Lake City","State":"UT","Zip":"84106","DeliveryDeadline":"17:00","Mass":"44","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":3,"Address":"233 Canyon Rd","City":"Salt Lake City","State":"UT","Zip":"84103","DeliveryDeadline":"17:00","Mass":"2","ArrivalTime":"08:00","TruckRequired":"2","DeliveredWith":"any"}
+,{"PackageId":4,"Address":"380 W 2880 S","City":"Salt Lake City","State":"UT","Zip":"84115","DeliveryDeadline":"17:00","Mass":"4","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":5,"Address":"410 S State St","City":"Salt Lake City","State":"UT","Zip":"84111","DeliveryDeadline":"17:00","Mass":"5","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":6,"Address":"3060 Lester St","City":"West Valley City","State":"UT","Zip":"84119","DeliveryDeadline":"10:30","Mass":"88","ArrivalTime":"09:05","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":7,"Address":"1330 2100 S","City":"Salt Lake City","State":"UT","Zip":"84106","DeliveryDeadline":"17:00","Mass":"8","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":8,"Address":"300 State St","City":"Salt Lake City","State":"UT","Zip":"84103","DeliveryDeadline":"17:00","Mass":"9","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":9,"Address":"300 State St","City":"Salt Lake City","State":"UT","Zip":"84103","DeliveryDeadline":"17:00","Mass":"2","ArrivalTime":"10:20","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":10,"Address":"600 E 900 South","City":"Salt Lake City","State":"UT","Zip":"84105","DeliveryDeadline":"17:00","Mass":"1","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":11,"Address":"2600 Taylorsville Blvd","City":"Salt Lake City","State":"UT","Zip":"84118","DeliveryDeadline":"17:00","Mass":"1","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":12,"Address":"3575 W Valley Central Station bus Loop","City":"West Valley City","State":"UT","Zip":"84119","DeliveryDeadline":"17:00","Mass":"1","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":13,"Address":"2010 W 500 S","City":"Salt Lake City","State":"UT","Zip":"84104","DeliveryDeadline":"10:30","Mass":"2","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":14,"Address":"4300 S 1300 E","City":"Millcreek","State":"UT","Zip":"84117","DeliveryDeadline":"10:30","Mass":"88","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"15,19"}
+,{"PackageId":15,"Address":"4580 S 2300 E","City":"Holladay","State":"UT","Zip":"84117","DeliveryDeadline":"9:00","Mass":"4","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":16,"Address":"4580 S 2300 E","City":"Holladay","State":"UT","Zip":"84117","DeliveryDeadline":"10:30","Mass":"88","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"13,19"}
+,{"PackageId":17,"Address":"3148 S 1100 W","City":"Salt Lake City","State":"UT","Zip":"84119","DeliveryDeadline":"17:00","Mass":"2","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":18,"Address":"1488 4800 S","City":"Salt Lake City","State":"UT","Zip":"84123","DeliveryDeadline":"17:00","Mass":"6","ArrivalTime":"08:00","TruckRequired":"2","DeliveredWith":"any"}
+,{"PackageId":19,"Address":"177 W Price Ave","City":"Salt Lake City","State":"UT","Zip":"84115","DeliveryDeadline":"17:00","Mass":"37","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":20,"Address":"3595 Main St","City":"Salt Lake City","State":"UT","Zip":"84115","DeliveryDeadline":"10:30","Mass":"37","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"13,15"}
+,{"PackageId":21,"Address":"3595 Main St","City":"Salt Lake City","State":"UT","Zip":"84115","DeliveryDeadline":"17:00","Mass":"3","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":22,"Address":"6351 South 900 East","City":"Murray","State":"UT","Zip":"84121","DeliveryDeadline":"17:00","Mass":"2","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":23,"Address":"5100 South 2700 West","City":"Salt Lake City","State":"UT","Zip":"84118","DeliveryDeadline":"17:00","Mass":"5","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":24,"Address":"5025 State St","City":"Murray","State":"UT","Zip":"84107","DeliveryDeadline":"17:00","Mass":"7","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":25,"Address":"5383 South 900 East #104","City":"Salt Lake City","State":"UT","Zip":"84117","DeliveryDeadline":"10:30","Mass":"7","ArrivalTime":"09:05","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":26,"Address":"5383 South 900 East #104","City":"Salt Lake City","State":"UT","Zip":"84117","DeliveryDeadline":"17:00","Mass":"25","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":27,"Address":"1060 Dalton Ave S","City":"Salt Lake City","State":"UT","Zip":"84104","DeliveryDeadline":"17:00","Mass":"5","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":28,"Address":"2835 Main St","City":"Salt Lake City","State":"UT","Zip":"84115","DeliveryDeadline":"17:00","Mass":"7","ArrivalTime":"09:05","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":29,"Address":"1330 2100 S","City":"Salt Lake City","State":"UT","Zip":"84106","DeliveryDeadline":"10:30","Mass":"2","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":30,"Address":"300 State St","City":"Salt Lake City","State":"UT","Zip":"84103","DeliveryDeadline":"10:30","Mass":"1","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":31,"Address":"3365 S 900 W","City":"Salt Lake City","State":"UT","Zip":"84119","DeliveryDeadline":"10:30","Mass":"1","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":32,"Address":"3365 S 900 W","City":"Salt Lake City","State":"UT","Zip":"84119","DeliveryDeadline":"17:00","Mass":"1","ArrivalTime":"09:05","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":33,"Address":"2530 S 500 E","City":"Salt Lake City","State":"UT","Zip":"84106","DeliveryDeadline":"17:00","Mass":"1","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":34,"Address":"4580 S 2300 E","City":"Holladay","State":"UT","Zip":"84117","DeliveryDeadline":"10:30","Mass":"2","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":35,"Address":"1060 Dalton Ave S","City":"Salt Lake City","State":"UT","Zip":"84104","DeliveryDeadline":"17:00","Mass":"88","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":36,"Address":"2300 Parkway Blvd","City":"West Valley City","State":"UT","Zip":"84119","DeliveryDeadline":"17:00","Mass":"88","ArrivalTime":"08:00","TruckRequired":"2","DeliveredWith":"any"}
+,{"PackageId":37,"Address":"410 S State St","City":"Salt Lake City","State":"UT","Zip":"84111","DeliveryDeadline":"10:30","Mass":"2","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":38,"Address":"410 S State St","City":"Salt Lake City","State":"UT","Zip":"84111","DeliveryDeadline":"17:00","Mass":"9","ArrivalTime":"08:00","TruckRequired":"2","DeliveredWith":"any"}
+,{"PackageId":39,"Address":"2010 W 500 S","City":"Salt Lake City","State":"UT","Zip":"84104","DeliveryDeadline":"17:00","Mass":"9","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+,{"PackageId":40,"Address":"380 W 2880 S","City":"Salt Lake City","State":"UT","Zip":"84115","DeliveryDeadline":"10:30","Mass":"45","ArrivalTime":"08:00","TruckRequired":"any","DeliveredWith":"any"}
+]
+}
